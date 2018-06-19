@@ -44,3 +44,32 @@ Une ligne de séparation (la balise <br/> en HTML)
 
 
 [Retour en haut](#haut)
+
+---
+
+# Les liens
+
+  * [Lien sur un site / une Url](https://wwww.google.com)
+
+  * [Lien vers un autre fichier Github](https://github.com/Ma6Tvacoder-Docs/ExercicesJS/blob/master/README.MD)
+
+# Les images
+
+![Image du site GIPHY par ex.](https://media.giphy.com/media/R97jJCEGEmh0I/giphy.gif)
+
+Et il reste encore... :octocat: ...
+
+# Les tableaux
+
+On sépare les cellules sur la même ligne avec un PIPE (alt gr + 6)
+
+Boisson | Goût | Prix
+--- | --- | ---
+Eau | neutre | 0.10E
+Coca | plantes | 2.10E
+Orangina | orange | 2.10E
+Lait | | 1E
+Emoticones | :imp | quoi ?
+
+
+
